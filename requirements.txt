@@ -1,0 +1,5 @@
+# No external dependencies — pure Python standard library.
+#
+# Optional additions if you extend this project:
+# pyperclip>=1.8.0      # copy generated passwords to the clipboard
+# pytest>=7.0.0         # run tests with pytest instead of unittest
