@@ -30,6 +30,7 @@ DEFAULT_WORDLIST = [
     "kayak", "lunar", "mirth", "nexus", "orbit", "pearl", "quiet", "ridge",
     "sable", "trend", "unity", "vapor", "willow", "xerox", "yacht", "zonal",
     "mouse", "floor", "leo", "fly", "back", "hero", "really", "fake",
+    "forest", "shadow", "silver", "thunder", "crystal", "wolf", "sunset",
 
 ]
 
