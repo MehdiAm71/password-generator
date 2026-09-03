@@ -29,6 +29,8 @@ DEFAULT_WORDLIST = [
     "coral", "delta", "ember", "fable", "grove", "honey", "input", "joker",
     "kayak", "lunar", "mirth", "nexus", "orbit", "pearl", "quiet", "ridge",
     "sable", "trend", "unity", "vapor", "willow", "xerox", "yacht", "zonal",
+    "mouse", "floor", "leo", "fly", "back", "hero", "really", "fake",
+
 ]
 
 LEET_MAP = {"a": "4", "e": "3", "i": "1", "o": "0", "s": "5", "t": "7"}
