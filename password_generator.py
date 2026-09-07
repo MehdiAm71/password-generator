@@ -32,6 +32,7 @@ DEFAULT_WORDLIST = [
     "mouse", "floor", "leo", "fly", "back", "hero", "really", "fake",
     "forest", "shadow", "silver", "thunder", "crystal", "wolf", "sunset",
     "arrow", "meadow", "storm", "candle", "falcon", "winter", "mirror",
+    "rocket", "island", "velvet", "dragon", "maple", "secret", "comet",
 ]
 
 LEET_MAP = {"a": "4", "e": "3", "i": "1", "o": "0", "s": "5", "t": "7"}
