@@ -33,14 +33,11 @@ DEFAULT_WORDLIST = [
     "forest", "shadow", "silver", "thunder", "crystal", "wolf", "sunset",
     "arrow", "meadow", "storm", "candle", "falcon", "winter", "mirror",
     "rocket", "island", "velvet", "dragon", "maple", "secret", "comet",
+    "anchor", "rainbow", "coffee", "planet", "flame", "garden", "signal",
 ]
 
 LEET_MAP = {"a": "4", "e": "3", "i": "1", "o": "0", "s": "5", "t": "7"}
 
-
-# --------------------------------------------------------------------------
-# terminal colors
-# --------------------------------------------------------------------------
 
 class Style:
     ENABLED = sys.stdout.isatty()
@@ -61,10 +58,6 @@ RATING_COLOR = {
     "Very strong": Style.GREEN,
 }
 
-
-# --------------------------------------------------------------------------
-# password policy
-# --------------------------------------------------------------------------
 
 @dataclass
 class PasswordPolicy:
@@ -114,9 +107,6 @@ class PasswordPolicy:
         return groups
 
 
-# --------------------------------------------------------------------------
-# generation
-# --------------------------------------------------------------------------
 
 def _secure_shuffle(items: list) -> None:
     for i in range(len(items) - 1, 0, -1):
