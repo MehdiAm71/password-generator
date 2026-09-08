@@ -34,6 +34,7 @@ DEFAULT_WORDLIST = [
     "arrow", "meadow", "storm", "candle", "falcon", "winter", "mirror",
     "rocket", "island", "velvet", "dragon", "maple", "secret", "comet",
     "anchor", "rainbow", "coffee", "planet", "flame", "garden", "signal",
+    "moon", "river", "pixel", "spark", "oasis", "falcon", "bridge",
 ]
 
 LEET_MAP = {"a": "4", "e": "3", "i": "1", "o": "0", "s": "5", "t": "7"}
